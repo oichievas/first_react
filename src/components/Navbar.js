@@ -58,7 +58,7 @@ function Navbar() {
                 Products
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 to="sign-up/"
                 className="nav-links"
@@ -66,7 +66,7 @@ function Navbar() {
               >
                 Sign Up
               </Link>
-            </li>
+            </li> */}
           </ul>
           {button && <Button buttonStyle="btn--outline">SIGN UP</Button>}
         </div>
