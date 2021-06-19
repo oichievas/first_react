@@ -1,13 +1,13 @@
-video {
+/* video {
   object-fit: cover;
   width: 100%;
   height: 100%;
   position: fixed;
   z-index: -1;
-}
+} */
 
 .hero-container {
-  /* background: url("../../public/images/img-home.jpg") center center/cover
+  /* background: url("../../public\images\img-home.jpg") center center/cover
     no-repeat; */
   /* background: url("https://p0.pikist.com/photos/731/729/seychelles-stone-rock-water-island-vacations-holidays-storm-summer.jpg")
     center center/cover no-repeat; */
